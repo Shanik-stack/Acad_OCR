@@ -1,0 +1,29 @@
+vintages ofthe R2 rule appears too stringentacriterion to provide amatch to thegooddata,
+NBER business-cycle dating methodology:For example, applying the R2 rule to the first-final
+data produces only ten recession quarters that matchone of the 21 NBER recession quarters,
+with 11 quarters of missed recession signals  Perhaps most problematic, the R2 ruletheusing
+first-final data completely misses the 1980 and 2001 NBERrecessions.The R2 rule produces
+only two false calls of recession quarters relative to the NBER definition (in 1969 and 1991).
+Overall then; the R2 rule gives a total of 13 quarters of incorrect recession signals.See the web
+appendix to this article for detailed Rland R2 chronologies:
+3Recession Probability Forecasts
+In this section;we  describe various alternative real-time probability forecasts of Rlrecession
+quarters using the first-final data.Theseare basedon  informationfrom the SPFor froma
+probit modelthecurveslope as an explanatory variable.In the next section; we willyieldusing
+provide a formal statistical examination of their relative accuracy:
+3.1SPF reported probability forecasts
+quarter since the fourth quarter of 1968, the SPF has asked its participants to provideEvery
+estimates of the probability of negative real GDP growth in that quarter as well as probabilities
+ofnegative growth in the current quarter and each of the next four quarters. The survey typically
+was due by the middle of the second month of the quarter (in recent years, the due date has
+been moved upaweek,to around the 7th of the second month of the quarter)_The number
+ofrespondents has variedovertime, witha median of about 34_Fora detailed discussion of
+the SPFsee Croushore (1993)_There are fourmissing observations for the four-quarter-ahead
+probability forecasts, with the finaloneoccurring during the survey taken in the third quarter
+of 1974.Because we allow for autocorrelation of residuals in thecomputation of standard errors
+for OU1 forecast accuracy statistics, the missing observations would require US to drop sixofyears
+data from our sample.Instead,wereplaced the missing observations on the four-quarter-ahead
+probability forecasts with the three-quarter-ahead probability forecasts from thesame survey.
+Our mainresults also hold ifwesimplythe six years of data for the four-quarter-aheaddrop
+forecasts.
+6

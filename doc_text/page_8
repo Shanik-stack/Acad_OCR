@@ -1,0 +1,23 @@
+The wording of the specific survey question is very clear and has changed little over time,
+and in 2007 it readas follows:
+Indicate the probability you would attach to a decline in real GDP(chain-weightedbasis, seasonally adjusted) in the next five quarters.Write in a figure that may rangefrom 0 to 100 in each of the cells (100 means a decline in the given quarter is certain,i.e_100 percent, 0 means there is no chance at all, i.e.0 percent)
+The mean probability forecast for quarter t that was reported in response to this questionasked
+in the survey in quarter t"h is denotedtlt-h"Importantly;thesearedirect real-time probabilityforecastsofwhatwehave termed RlPSPF
+recessions that require no ex post adjustmentsorfiltering:The solid lines in the five panels of
+Figure 1these probabilities for the current quarter (h = 0) and for the future four quartersplot
+(Note that in each panelis plotted in quarter t, regardless of the value of the forecasttlt-hPSPF
+horizon h.)
+For forecasting thecurrentquarter, the SPF participants appearto be ableto delineate
+periods of weakornegative real GDP growth:However, the SPF predictive informationre-
+garding Rl recessions quickly erodesas the forecast horizonincreases.Certainly  forthree_
+and four-quarter-ahead forecasts; it does not appear that the SPF forecasts have much; if any,
+information
+3.2SPF implied probability forecasts
+Our second sequence of recession probability forecasts is derived from the real output forecasts
+reported in the SPFWe use thismeasureprimarily as a check to see whether the SPF proba-
+forecastsare consistent with the SPF real GDP forecasts.We use the median real GDPbility
+forecasts for quarter t from the SPF in quarter th and the historicalerror variances associ-
+ated with forecasts at various horizons to compute implied recession probabilitiesFortlt-hthe purpose of constructing the SPF implied probability forecasts;we havereplaced the fourPGDP
+mlissing observations for the four-quarter-ahead real GDP forecasts (mentioned above) with the
+corresponding three-quarter-ahead forecasts.Excluding these data entirely from the analysis
+does not affect our results.

@@ -1,0 +1,10 @@
+Problem B : Stars in the Milky Way (5 Points)
+Use this information to estimate the total number of stars in the MilkyWay:
+Problem C : Gravity at the ISS (5 Points)
+The International Space Station (ISS) orbits the Earth at an altitude of around 410 km: The ISSdoes not fall towardsthe Earth, andthe astronauts & objects are floating weightlessly: On Earth'ssurface, objects fall with a gravitational acceleration of approximately 9.81 m/s? .
+(a) Show that the following equation gives the percentage P of how much the grav: accelerationdecreases between Earth's surface (R: Earth's radius, 6371 km) and an object at altitude z:
+P(z) = 1 -R(b) What is P(z) for the altitude ofthe ISS, and why are objects weightless nevertheless?(c) At what distance does the grav. acceleration become only 1% ofthat on Earth's surface?
+Problem D : Field of View of the ISS (5 Points)
+The astronautsliving on the ISS have a spectacular view of Earth. However;see only a cer-tain part of the Earth at a given time, and the planets curvature limits their view:they
+Use geometry to determine (a) the field of view angle 0, (b) the total distance S visible, and (c)the percentage of Earth's surface that astronauts can see
+wwwiaac space2/3

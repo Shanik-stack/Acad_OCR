@@ -1,0 +1,9 @@
+Table 2
+Evaluation of Real-time Probability Forecasts:Advance Data
+ProbabilityFull sample_Post-1987 sampleforecastMAERMSELPSMAERMSELPS
+Current-quarter Rl recession predictionSPF reported0.1660.2570.2360.1310.2000.165SPF implied0.1600.2700.2560.1380.2000.173Yield spread0.2050.3130.3500.1540.2290.212One-quarter-ahead Rl recession predictionSPF reported0.2160.2980.2990.1560.2030.187SPF implied0.2190.3140.3340.1790.2140.213Yield spread0.1820.2890.2810.1410.2180.185
+Two-quarter-ahead Rl recession predictionSPF reported0.2390.3210.3460.1740.2170.212SPF implied0.2530.3440.3930.2160.2500.267Yield spread0.190t0.2940.3200.1420.2030.178
+Three-quarter-ahead R1 recession predictionSPF reported0.2540.3390.3870.1890.2330.238SPF implied0.2560.3500.4230.2210.2600.282Yield spread0.203+0.3100.328t0.137t0.2000.170t
+Four-quarter-ahead R1 recession predictionSPF reported0.2650.3510.4180.1970.2420.253SPF implied0.2620.3560.4560.2200.2560.276Yield spread0.209+0.317+0.330+0.139+0.2030.176t
+Note: The most accurate entries at each horizon are shown in boldface type. The dagger denotesyield curve forecasts that are significantly more accurate than the SPF reported forecast at the5% level.
+23

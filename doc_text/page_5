@@ -1,0 +1,32 @@
+activity. For detailed discussion of the NBER methodology, see Diebold and Rudebusch (1992,
+1996) .Basedon thismethodology; the NBER publishes a historical chronology of the monthly
+dates of past businesspeaks and troughs, which delineate recessions and expansions.(Forcycle
+a modern dynamic factor approach for measuring economic activity; see Aruoba, Diebold, and
+Scotti, 2008.
+The NBER businessdating methodology requires substantial judgment in itscycleapplica-
+and the resulting chronology iswithout measurementerror_Diebold and Rudebuschtion,not
+(1992) describe some of the uncertainty about the precise monthly dating of the general turns in
+business activity; however ,even if oneaccepts the NBER dates of cyclical peaks and troughs as
+stated, there remains some ambiguity about whena recession starts and ends.Specifically, the
+and trough months could be classified as the first month of a recession and the first monthpeak
+of an expansion, respectively;or as the last month of anexpansion and the last month of are-
+cession, respectively. The latter convention, in which the recession starts in the month following
+themonth and ends on the date of the subsequent trough month; is the more common onepeak
+(e:g: =Diebold and Rudebusch 1989).(In contrast, the NBER's view is that thewhen theday
+economy turns around is contained within theortrough month; so those months are blendspeak
+of both recession and expansion phases )Afurther complication arises from the translation
+of the monthly dates into designations of peaks and troughsataquarterly frequency,  which
+weemploy inouranalysis because the SPF is quarterly.Sucha translationcan be done ina
+variety of ways,andwe follow the most common convention (e.g:Estrella and Trubin 2006)
+andassume thata recession starts in the quarter that directly follows the quarter containing
+themonthand that it ends in the quarter containing the troughmonth:Our resultingpeak
+chronology of quarterly NBER recessions and expansions is represented byabinary variable,
+with a one for a recession quarter and a zerootherwise, which will be denotedasRNBERt: See
+thewebappendix to this article for further details of this variable.We also obtained similar
+dating of recessionsan alternative convention in whicha recession quarter was defined tousing
+contain two ormore recession months orthe convention in Wright (2006) , in which bothusing
+thequarter and trough quarterwerecounted as recession quarters, butwe do not reportpeak
+those results here.
+Forouranalysis,weemployasimple rule that links declines in real GDPto recessions.
+Asnoted by the NBER (2003):"The NBERconsiders real GDPto be the singlemeasure
+

@@ -1,0 +1,29 @@
+in the transmission of monetary policy;a central banker may not attach much if any cost toa
+false signal thata recession willoccur in the second quarter if one actually does occur in the
+third quarter.In contrast,a market trader may attachahigh cost to a false signal with sucha
+one-quarter miss in timing:  Obviously, like many other researchers before US, we cannot provide
+clear guidance on this issue but only highlight it.
+For this exercise,weuse the asymmetric weighting scheme of Elliot, Komunjer, andTim-
+mermann(2005) and apply it to the MAE and MSE criteria.In the case of the SPF probability
+forecast, the weights applied to each (absolute O squared) forecast error are given by:
+Wt (SPF,h) = [& + (1 = 2a)I(RltPSPE< 0)];
+where I('is the indicator function, taking the value onewhen the forecasterror isnegative
+(i.e.=a recession does not occur) andzero when the forecasterror ispositive (i.e =arecession
+does occur)_Avalue of & of 0.5 implies symmetric preferences.As seen in Figure 1, the current-
+quarter SPF reported probability forecasts appearto track theoccurrences of Rl recessions
+much better than the yield spread, but perform worse in periods when no recession occurs.This
+suggests that the relative accuracy of the SPF' forecasts may improve withaweighting scheme
+that places more weightonavoiding missinga recession when one does occur thanonavoiding
+false predictions of recessions.For this,we examined values f & of 0.6 and 0.8_
+Ourresults about the relative accuracy of SPF and yield spread forecasts are robust tokey
+the assumption of asymmetric preferences of this type.Even with a highly asymmetric loss with
+Q=0.8, the SPFforecastsarenevermore accurate than the yield spread forecasts at the 5%
+level:The current-quarter SPF forecasts are more accurate than the yield spread forecasts at the
+10% significance level, butfor the first-final data  Based on the MAE criterion; at forecastonly
+horizons of three and four quarters, the yield spread forecastsaresignificantlymore accurate
+than the SPFforecasts at the 5% level.Basedon the MSE criterion, the four-quarter-ahead
+spread forecast is significantly more accurate than the SPF forecast at the 10% level. Theseyield
+results hold for both the first-final and advance data:The high relative accuracy of theyield
+spread forecasts measuredanasymmetric criterion is all the more remarkable given thatusing
+these forecasts were basedon the very different LPS criterion
+15

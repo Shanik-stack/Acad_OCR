@@ -1,0 +1,32 @@
+1Defining Recessions
+Our chronology of quarterly NBER recessions and expansions is shown in the final column of
+Table Al, witha one fora recession quarter anda zero otherwise.This binary variable will be
+denotedasRN BERt:
+Forouranalysis,weemployasimple rule that links declines in real GDPto recessions.
+Of course;as in any real-time analysis, the issue of whichvintage of data to use is important.
+The first three columns of TableA1 displays three data series for real GDP growth_The first
+series is the s0-called"first-final" data which is released about three months after the end of
+each quarter.This isourpreferred real-time measure of GDP. It incorporatesagreat deal of
+information about expendituresand isareasonablyaccuratemeasure of GDPbasedon the
+methodology in place at the timeThe second column, the numbers in parentheses; reports the
+latest revised estimates available as of February 2007. These data have been subject to multiple
+revisions and; importantly, incorporate significant changes in methodology; making comparison
+of real-time forecasts to revised dataproblematicThe third column, the numbers in square
+brackets, reports the"advance" data,  whicharereleased aboutonemonthafter theendof
+the quarter.At the time of publication of these data, several importantsource dataare still
+unavailable, making these estimates subjectto greater measurementerror than the first-final
+estimates.
+Astraightforwardrulefordefining recessions thatworks quitewell iswhatwe dub the
+'Rl rule;'which simply defines any single quarter of negative real GDP growthas a recession
+quarter.The associated binary variable of recession quarters is denotedasColumns fourRlt:
+through six in Table Al report the Rl data for the first-final, current vintage, and advance data,
+respectively:Avalue of one indicates that the growth rate of real GDPwasnegative in that
+quarter , otherwise the value is zero.As shown in the table, the RI rule applied to first-final data
+produces 14 recession quarters that matchone of the 21 NBER recession quarters,with only
+seven missed calls of recession_The Rl rule also produces five false calls of recession (including
+onea whisker in1978.Q1). Therefore, there are 12 total quarters of incorrect signals and theby
+mix of missed calls isreasonably balanced.The Rl rule has advantages in terms of simplicity
+and its direct connectionto the survey questions in the SPFandwe thereforeuse it forour
+analysis for the remainder of the paper.
+For comparison,we also report the recession dates thatone obtains by applying whatwe
+1

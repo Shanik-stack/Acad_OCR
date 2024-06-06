@@ -1,0 +1,23 @@
+Table 3
+Rationality Tests for SPFReal GDPForecasts
+Estimated Coefficients
+ExplanatoryEstimated CoefficientsVariablesFull-sample ForecastsPost-1987 sample ForecastsCurrent-quarter forecastConstant0.310.06-0.040.470.670.43SPF forecast0.100.08-0.08-0.10Yield spread-0.100.16F-test (p-value)0.110.180.340.010.560.51
+0.470.67-0.08
+0.43-0.100.160.51
+0.010.56
+One-quarter-ahead forecastConstant-0.01-0.16-0.520.25SPF forecast0.05-0.19Yield spread-0.65tF test (p-value)0.960.660.010.32
+0.250.41-0.06
+0.21-0.14-0.230.48
+0.320.80
+Two-quarter-ahead forecastConstant-0.240.21-0.140.19SPF forecast-0.15-0.50tYield spread-0.88tF test (p-value)0.470.400.000.53
+0.190.82-0.24
+0 84-0.43-0.280.34
+0.530.43
+Three-quarter-ahead forecastConstant-0.50-0.13-0.700.08SPF forecast-0.11-0.31Yield spread-0.76tF test (p-value)0.180.630.020.81
+0.081.40-0.47
+1.47-0.71t-0.320.16
+0.810.19
+Four-quarter-ahead forecastConstant-0.410.54-0.330.061.551.24SPF forecast-0.29-0.37-0.53-0.69+Yield spread-0.68t-0.43F test (p-value)0.290.190.000.870.130.05
+0.061.55-0.53
+Note:Adagger denotes coefficients thataresignificantly different fromzeroat the 5% level.Each column reports the results fromaregression of the SPF real-time real GDP forecast error(assessedfirst-final data) on the specified explanetory variables.The row labeled "F-test"reports the p-value associated with the test that all coefficientsarejointlyzero_using
+24

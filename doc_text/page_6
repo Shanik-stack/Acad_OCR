@@ -1,0 +1,32 @@
+that comes closest to capturing what itmeansbyaggregate economic activity'The [NBER]
+therefore places considerable weight on real GDP and other output measuresOf course,as in
+any real-time analysis, the issue of which vintage of data to use is important, andwe consider
+three different data seriesfor real GDP growth:The first series is the so-called66first-final"
+data which is released about three months after the end of each quarter.This is our preferred
+real-timemeasure of GDP.It incorporates a great deal of information about expenditures and
+is areasonably accurate measure of GDP basedon themethodology in place at the timeThe
+second is the latest revised estimates available as of February 2007. These data have been subject
+to multiple revisions and, importantly incorporate significant changes in methodology; making
+comparison of real-time forecasts to revised data problematic. The third is the "advance"data,
+which is released aboutone monthafter the end of the quarter.At the time of publication of
+these data,; several important source data are still unavailable, making these estimates subject to
+greater measurement error than the "first-final" estimates.See the web appendix to this article
+for further details on these data:
+Astraightforwardrulefordefining recessions thatworks quitewell iswhatwe dub the
+'Rl rule;'which simply defines any single quarter of negative real GDP growthas a recession
+quarter.The associated binary variable of recession quarters is denotedasAvalue of oneRlt:
+indicates that the growth rate of real GDPwasnegative in that quarter, otherwise the value
+is zero.Applied to first-final data, the Rl rule produces 14 recession quarters that matchone
+of the 21 NBER recession quarters; withseven missed calls of recessionThe Rl rule alsoonly
+produces five false calls of recession (including one by a whisker in 1978.Q1).Therefore, there
+are 12 total quarters of incorrect signals and the mix of missed calls is reasonably balanced.The
+Rl rule has advantages in terms of simplicity and its direct connection to the survey questions
+in the SPF (described below)andwe therefore use it for our analysis for the remainder of the
+paper.
+For comparison,we also consider the recession dates that one obtains by applying whatwe
+call the "R2 rule;'which defines a recession asoccurring if there are two consecutive quarters of
+negative real GDP growth:In particular, we say that a quarter is in an R2 recession if real GDP
+falls in that quarter and if either (or both) the previous and following quarters post negative
+real GDP growth as well:This definition of a recession is often mentioned in the media; but in
+practice, it performs rather poorly as a proxy for NBER recession dates. Using any of the three
+5

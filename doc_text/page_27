@@ -1,0 +1,5 @@
+Figure 2Coefficient Estimates from Real-timeProbit Regressions
+Sequence of intercept estimates
+Forecasting current quarterForecasting two quarters ahead-0.22Forecasting four quarters ahead-0.4-0.6-7-0.8 --1.0-12+TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT68727680848892960004
+Sequence of slope coefficient estimates0.4Forecasting current quarter0.22Forecasting two quarters aheadForecasting four quarters ahead0.0-0.2-0.4NArH-0.6-0.8-1.0-12T7TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT68727680848892960004
+Note: Probit regressions have R1 recession probability as the left-hand-sidevariable. Expanding sample real-time estimation begins with 10 years ofdata starting in 1955.Q1. Forecasts for each quarter use vintage dataestimated through a yearprior .
